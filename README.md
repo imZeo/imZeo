@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imZeo
 - 👀 I’m definitely _NOT_ an engineer
-- 🌱 I’m currently learning Python|TS
+- 🌱 I’m currently learning Python|TS|Terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hello@zmcsoltai.com
 
