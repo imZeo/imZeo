@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @imZeo
-- 👀 I’m definitely _NOT_ an engineer
-- 🌱 I’m currently learning Python|TS|Terraform
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hello@zmcsoltai.com
+- 👀 TechOps Engineer learning the ways of backend
+- 🌱 Currently learning Kotlin | Python | OpenTofu
+- 💞️ I love anything that touched identity and _chef's kiss_ RBAC
+- 📫 Drop me a holla' at hello@zmcsoltai.com
 
 <!---
 imZeo/imZeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
