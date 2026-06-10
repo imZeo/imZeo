@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imZeo
-- 👀 TechOps Engineer learning the ways of backend
+- 🛠️ Senior TechOps Engineer && Backend Engineer doing work experience with the BackOffice Team
 - 🌱 Currently learning Kotlin | Python | OpenTofu
-- 💞️ I love anything that touched identity and _chef's kiss_ RBAC
+- 💞️ I love _anything_ that touches identity and _chef's kiss_ RBAC
 - 📫 Drop me a holla' at hello@zmcsoltai.com
 
 <!---
